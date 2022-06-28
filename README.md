@@ -1,5 +1,5 @@
 # ULA-em-SystemVerilog
-Criação do circuito lógico combinacional ULA com operações básicas de apenas 3 bits (AND,OR, soma, subtração) para a discuplina de LOAC na UFCG.
+Criação do circuito lógico combinacional ULA com operações básicas de apenas 3 bits (AND,OR, soma, subtração) para a disciplina de LOAC na UFCG.
 
 ## Como rodar o projeto:
 * **1.** Abrir o simulador de FPGA da UFCG:  http://lad.ufcg.edu.br/hdl/simulate.php 
